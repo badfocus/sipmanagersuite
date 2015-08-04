@@ -8,11 +8,11 @@ li {
 <body>
 <h1>Sip Manager Suite</h1>
 <li>
-  <li><a href="lines.html">Lines buttons</a></li>
-  <li><a href="time.html">Time</a></li>
-  <li><a href="network.html">Network</a></li>
-  <li><a href="services.html">Services</a></li>
-  <li><a href="system.html">System</a></li>
+  <li><a href="lines.php">Lines buttons</a></li>
+  <li><a href="time.php">Time</a></li>
+  <li><a href="network.php">Network</a></li>
+  <li><a href="services.php">Services</a></li>
+  <li><a href="system.php">System</a></li>
 </li>
 
 <?php
