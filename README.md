@@ -5,6 +5,8 @@ This tool make easier the configuration of Cisco 79xx phones, you can simply add
 
 <img src=http://lingoworld.eu/websites/sipmanager/sipmanager.jpg>
 
+<img src=http://lingoworld.eu/websites/sipmanager/sipmanager2.jpg>
+
 <a href="http://lingoworld.eu/websites/sipmanager/sipmanager.html">Test the configuration web manager here</a>
 
 
